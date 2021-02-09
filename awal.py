@@ -6,3 +6,4 @@ class Kedua(Awal):
         print("Hai {}".format(self.nama))
 class Ketiga(Kedua):
     obj2 = Kedua("Jon")
+
