@@ -3,6 +3,7 @@ class Awal:
         self.nama = nama
 class Kedua(Awal):
     def __str__(self):
-        print("Namaku {}".format(self.nama))
+        print("Hai {}".format(self.nama))
 class Ketiga(Kedua):
-    obj2 = Kedua("Kong")
+    obj2 = Kedua("Jon")
+
