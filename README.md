@@ -1,2 +1,2 @@
-# Latihan
-Hanya Latihan Aja Kok
+# Halo Dunia
+Just type common programmer
