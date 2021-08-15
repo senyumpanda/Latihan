@@ -1,2 +1,2 @@
 # Halo Dunia
-Just type common programmer
+Just type "Hello World"
